@@ -1,0 +1,5 @@
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\ConceptArchitect.UI.Core\obj\Debug\ResolveAssemblyReference.cache
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\ConceptArchitect.UI.Core\bin\Debug\ConceptArchitect.UI.Core.dll
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\ConceptArchitect.UI.Core\bin\Debug\ConceptArchitect.UI.Core.pdb
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\ConceptArchitect.UI.Core\obj\Debug\ConceptArchitect.UI.Core.dll
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\ConceptArchitect.UI.Core\obj\Debug\ConceptArchitect.UI.Core.pdb

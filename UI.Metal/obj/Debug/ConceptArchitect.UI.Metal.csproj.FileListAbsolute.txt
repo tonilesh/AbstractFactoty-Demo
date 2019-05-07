@@ -1,0 +1,7 @@
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\ConceptArchitect.UI.Metal\bin\Debug\ConceptArchitect.UI.Metal.dll
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\ConceptArchitect.UI.Metal\bin\Debug\ConceptArchitect.UI.Metal.pdb
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\ConceptArchitect.UI.Metal\bin\Debug\ConceptArchitect.UI.Core.dll
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\ConceptArchitect.UI.Metal\bin\Debug\ConceptArchitect.UI.Core.pdb
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\ConceptArchitect.UI.Metal\obj\Debug\ResolveAssemblyReference.cache
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\ConceptArchitect.UI.Metal\obj\Debug\ConceptArchitect.UI.Metal.dll
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\ConceptArchitect.UI.Metal\obj\Debug\ConceptArchitect.UI.Metal.pdb

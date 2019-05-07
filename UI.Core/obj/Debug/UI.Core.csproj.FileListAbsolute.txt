@@ -1,0 +1,6 @@
+C:\Sample codes\Asbtract Factory Demo\UI.Core\bin\Debug\ConceptArchitect.UI.Core.dll
+C:\Sample codes\Asbtract Factory Demo\UI.Core\bin\Debug\ConceptArchitect.UI.Core.pdb
+C:\Sample codes\Asbtract Factory Demo\UI.Core\obj\Debug\UI.Core.csproj.CoreCompileInputs.cache
+C:\Sample codes\Asbtract Factory Demo\UI.Core\obj\Debug\ConceptArchitect.UI.Core.dll
+C:\Sample codes\Asbtract Factory Demo\UI.Core\obj\Debug\ConceptArchitect.UI.Core.pdb
+C:\Sample codes\Asbtract Factory Demo\UI.Core\obj\Debug\UI.Core.csprojAssemblyReference.cache

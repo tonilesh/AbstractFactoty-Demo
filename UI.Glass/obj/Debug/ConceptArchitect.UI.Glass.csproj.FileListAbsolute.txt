@@ -1,0 +1,7 @@
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\ConceptArchitect.UI.Glass\bin\Debug\ConceptArchitect.UI.Glass.dll
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\ConceptArchitect.UI.Glass\bin\Debug\ConceptArchitect.UI.Glass.pdb
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\ConceptArchitect.UI.Glass\bin\Debug\ConceptArchitect.UI.Core.dll
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\ConceptArchitect.UI.Glass\bin\Debug\ConceptArchitect.UI.Core.pdb
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\ConceptArchitect.UI.Glass\obj\Debug\ResolveAssemblyReference.cache
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\ConceptArchitect.UI.Glass\obj\Debug\ConceptArchitect.UI.Glass.dll
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\ConceptArchitect.UI.Glass\obj\Debug\ConceptArchitect.UI.Glass.pdb

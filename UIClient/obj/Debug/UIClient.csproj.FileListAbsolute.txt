@@ -1,0 +1,18 @@
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\UIClient\obj\Debug\ResolveAssemblyReference.cache
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\UIClient\bin\Debug\UIClient.exe
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\UIClient\bin\Debug\UIClient.pdb
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\UIClient\bin\Debug\ConceptArchitect.UI.Core.dll
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\UIClient\bin\Debug\ConceptArchitect.UI.Core.pdb
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\UIClient\obj\Debug\UIClient.exe
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\UIClient\obj\Debug\UIClient.pdb
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\UIClient\bin\Debug\UIClient.exe.config
+C:\Sample codes\Asbtract Factory Demo\UIClient\bin\Debug\UIClient.exe.config
+C:\Sample codes\Asbtract Factory Demo\UIClient\bin\Debug\UIClient.exe
+C:\Sample codes\Asbtract Factory Demo\UIClient\bin\Debug\UIClient.pdb
+C:\Sample codes\Asbtract Factory Demo\UIClient\bin\Debug\ConceptArchitect.UI.Core.dll
+C:\Sample codes\Asbtract Factory Demo\UIClient\bin\Debug\ConceptArchitect.UI.Core.pdb
+C:\Sample codes\Asbtract Factory Demo\UIClient\obj\Debug\UIClient.csprojAssemblyReference.cache
+C:\Sample codes\Asbtract Factory Demo\UIClient\obj\Debug\UIClient.csproj.CoreCompileInputs.cache
+C:\Sample codes\Asbtract Factory Demo\UIClient\obj\Debug\UIClient.csproj.CopyComplete
+C:\Sample codes\Asbtract Factory Demo\UIClient\obj\Debug\UIClient.exe
+C:\Sample codes\Asbtract Factory Demo\UIClient\obj\Debug\UIClient.pdb

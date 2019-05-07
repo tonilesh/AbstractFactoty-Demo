@@ -1,0 +1,16 @@
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\Compserv.Designs.Rubber\bin\Debug\Compserv.Designs.Rubber.dll
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\Compserv.Designs.Rubber\bin\Debug\Compserv.Designs.Rubber.pdb
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\Compserv.Designs.Rubber\bin\Debug\ConceptArchitect.UI.Core.dll
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\Compserv.Designs.Rubber\bin\Debug\ConceptArchitect.UI.Core.pdb
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\Compserv.Designs.Rubber\obj\Debug\ResolveAssemblyReference.cache
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\Compserv.Designs.Rubber\obj\Debug\Compserv.Designs.Rubber.dll
+D:\MyWorks\MyTraining\workshops\oodp201007\AbstractFactoryDemo\Compserv.Designs.Rubber\obj\Debug\Compserv.Designs.Rubber.pdb
+C:\Sample codes\Asbtract Factory Demo\Designs.Rubber\obj\Debug\Compserv.Designs.Rubber.csprojAssemblyReference.cache
+C:\Sample codes\Asbtract Factory Demo\Designs.Rubber\obj\Debug\Compserv.Designs.Rubber.csproj.CoreCompileInputs.cache
+C:\Sample codes\Asbtract Factory Demo\Designs.Rubber\obj\Debug\Compserv.Designs.Rubber.dll
+C:\Sample codes\Asbtract Factory Demo\Designs.Rubber\obj\Debug\Compserv.Designs.Rubber.pdb
+C:\Sample codes\Asbtract Factory Demo\Designs.Rubber\bin\Debug\Compserv.Designs.Rubber.dll
+C:\Sample codes\Asbtract Factory Demo\Designs.Rubber\bin\Debug\Compserv.Designs.Rubber.pdb
+C:\Sample codes\Asbtract Factory Demo\Designs.Rubber\bin\Debug\ConceptArchitect.UI.Core.dll
+C:\Sample codes\Asbtract Factory Demo\Designs.Rubber\bin\Debug\ConceptArchitect.UI.Core.pdb
+C:\Sample codes\Asbtract Factory Demo\Designs.Rubber\obj\Debug\Compserv.Designs.Rubber.csproj.CopyComplete
